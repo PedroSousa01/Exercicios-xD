@@ -1,0 +1,12 @@
+algoritmo "semnome"
+
+var
+   C: Inteiro
+inicio
+      C <- 100
+      Enquanto (C >= 0) faca
+         Escreva(C)
+         C <- C - 5
+      FimEnquanto
+      Escreva(" Acabou!")
+fimalgoritmo
